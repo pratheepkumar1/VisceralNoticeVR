@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EyeTrackingConfirmation.unity
+    guid: eeee7b2a8c44541c5bb5575cc616fc8c
+  - enabled: 1
+    path: Assets/Scenes/EyeTrackingEnabled.unity
+    guid: 246699dfb7f454f36ba089003bae3692
+  - enabled: 0
+    path: Assets/Oculus/Avatar2/Example/Scenes/SimpleExample.unity
+    guid: 9d651860700ec4f64899b27f1cd59359
+  - enabled: 0
+    path: Assets/Oculus/Avatar2/Example/Scenes/MirrorScene/MirrorScene.unity
+    guid: 9f2e1693a4f24bc498477b3dfeb166aa
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 60f49446ce41e4995ba637507b56c776, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf3d0a72fa4e34c819c40d47a4b76d01, type: 2}

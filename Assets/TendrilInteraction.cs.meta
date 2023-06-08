@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2c55e926262d541fcbf071580c33496e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GazeIndicator: {fileID: 2692277199443761290, guid: 2a86c3141fe0448e981c2bcc09a25f20, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
